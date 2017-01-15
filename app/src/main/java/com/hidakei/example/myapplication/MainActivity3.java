@@ -35,7 +35,7 @@ public class MainActivity3 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 tv.setText("bt p");
-/*2xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx2*/
+/*2xxxxxxxxxxxxxxxxxxxxxxxxxxjxxxxx2*/
             }
         });
 
